@@ -44,5 +44,4 @@ Extend the model to other financial sectors and geographies
 
 
 👥 Authors
-Ahmed Md Zunayed
-Bhuian Md Waliulla
+Ahmed Md Zunayed, Bhuian Md Waliulla
